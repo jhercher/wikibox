@@ -3,9 +3,7 @@ create useful infoboxes based on GND-IDs and enriched with data from Wikipedia!
 
 See the demo at [www.bilder-der-revolte.de](http://bilder-der-revolte.de/photo/rainer-langhans-flugblaetter-verteilend-2/)
 
-![A simple Infobx for Rainer Langhans at bilder-der-revolte.de][screenshot]
-
-[screenshot]: screenshot.png "A simple Infobx for Rainer Langhans at bilder-der-revolte.de" width="1054px" height="841px"
+![A simple Infobx for Rainer Langhans at bilder-der-revolte.de](https://github.com/jhercher/wikibox/raw/master/screenshot.png)
 
 ## How it works
 After page load wikibox looks for img-elements wrapped by an `a`-Element. It attaches a css and a data attribute:
